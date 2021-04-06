@@ -12,7 +12,7 @@ function preload(){
     thunders3 = loadImage("images/thunderbolt/3.png");
     thunders4 = loadImage("images/thunderbolt/4.png");
 
-    walking = loadAnimation("images/Walking Frame/walking_8.png","images/Walking Frame/walking_7.png","images/Walking Frame/walking_6.png","images/Walking Frame/walking_5.png","/images/Walking Frame/walking_4.png","images/Walking Frame/walking_3.png","images/Walking Frame/walking_2.png","images/Walking Frame/walking_1.png");
+    walking = loadAnimation("images/WalkingFrame/walking_8.png","images/WalkingFrame/walking_7.png","images/WalkingFrame/walking_6.png","images/WalkingFrame/walking_5.png","/images/WalkingFrame/walking_4.png","images/WalkingFrame/walking_3.png","images/WalkingFrame/walking_2.png","images/WalkingFrame/walking_1.png");
 }
 
 function setup(){
